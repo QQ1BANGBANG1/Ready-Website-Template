@@ -1,2 +1,1 @@
-# Ready-Website-Template
-This website is for ones who have a bot ( for discord ) and want to have a simple website for their bot
+You don't need to change anything just you have to change 2 lines in index ( open the index.html to see )
